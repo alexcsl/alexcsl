@@ -50,14 +50,6 @@
 
 ###
 
-<h2 align="left">Contributions :</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/alexcsl/alexcsl/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Stats 📈</h2>
 
 ###
