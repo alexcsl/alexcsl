@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently in my third semester of uni<br>🎯 Goals: To be an expert A.I Engineer and an expert Blockchain Engineer<br>🎲 Fun fact: Love Learning...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently in my second year of uni<br>🎯 Goals: To be an expert A.I Engineer and an expert Blockchain Engineer<br>🎲 Fun fact: Love Learning...</p>
 
 ###
 
