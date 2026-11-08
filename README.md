@@ -20,14 +20,17 @@ I'm Alexander Christian Suryanto Linggodigdo. My interests sit where useful inte
 - **Explore:** how AI can make information easier to work with, and how blockchain changes ownership and execution.
 - **Learn by doing:** write the code, follow the data, and understand what happens underneath.
 
-### A few things I've been building
+### Selected projects
 
-| Project | What you'll find | Focus |
+| Project | What it does | Inside the code |
 | :--- | :--- | :--- |
-| [StockScope](https://github.com/alexcsl/stockscope) | A tokenized-stock research terminal with sourced observations, comparisons, and cited research. | Financial research · AI |
-| [Banked](https://github.com/alexcsl/Banked) | A Solana wallet exit-planning app with a public simulation demo. | Solana · Wallet UX |
-| [Hwixel](https://github.com/alexcsl/Hwixel) | An Android group project management app for university students. | Android · Collaboration |
-| [SPL tokens & MPL Core NFTs](https://github.com/alexcsl/turbine-spl-nft-26) | TypeScript exercises covering token transfers and the NFT lifecycle, with devnet transaction evidence. | TypeScript · Solana |
+| [Aegis](https://github.com/alexcsl/aegis) | Policy middleware for AI-agent tool calls, with risk scoring, argument rewriting, and deferred decisions. | Go [policy engine](https://github.com/alexcsl/aegis/blob/master/core/internal/policy/evaluator.go), [MCP proxy](https://github.com/alexcsl/aegis/blob/master/core/internal/mcp/proxy.go), and Python/TypeScript SDKs. |
+| [StockScope](https://github.com/alexcsl/stockscope) | A tokenized-stock research terminal with cited AI explanations and testnet execution guards. | [AI budget and citation checks](https://github.com/alexcsl/stockscope/blob/main/src/lib/analyst.ts), [signed-order validation](https://github.com/alexcsl/stockscope/blob/main/contracts/GuardedExecutor.sol), and receipt reconciliation. |
+| [RUSA](https://github.com/alexcsl/RUSA-Desktop-Application) | A desktop operations application covering role-specific workflows, voting, and audit logs. | Rust/Tauri + Svelte, shared [authorization guards](https://github.com/alexcsl/RUSA-Desktop-Application/blob/master/rusa/src-tauri/src/auth.rs), and [quorum-based voting](https://github.com/alexcsl/RUSA-Desktop-Application/blob/master/rusa/src-tauri/src/commands/voting.rs). |
+| [Hwixel](https://github.com/alexcsl/Hwixel) | An Android workspace for team projects, task boards, attendance, and peer evaluations. | Kotlin repository/ViewModel separation, [Firebase and Room data access](https://github.com/alexcsl/Hwixel/blob/main/app/src/main/java/edu/bluejack25_2/hwixel/data/repository/ProjectRepository.kt), and [task-board regression tests](https://github.com/alexcsl/Hwixel/blob/main/app/src/test/java/edu/bluejack25_2/hwixel/ui/project/tasks/TaskBoardViewModelTest.kt). |
+| [Pinocchio Fundraiser](https://github.com/alexcsl/pinocchio-fundraiser) | A Solana crowdfunding program with contribution limits, deadlines, payouts, and refunds. | Rust/Pinocchio [PDA and token-account validation](https://github.com/alexcsl/pinocchio-fundraiser/blob/main/src/instructions/contribute.rs), checked arithmetic, and [LiteSVM refund tests](https://github.com/alexcsl/pinocchio-fundraiser/blob/main/tests/refund.rs). |
+
+**Open-source contribution:** [Recordly](https://github.com/webadderallorg/Recordly/pull/1029): a merged fix for clip deletion and audio/video preview synchronization, with unit and browser regression tests.
 
 ### GitHub, at a glance
 
