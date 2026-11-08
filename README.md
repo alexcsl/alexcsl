@@ -1,44 +1,40 @@
-<h1 align="left">Alexander Christian Suryanto Linggodigdo 🚀</h1>
-
-###
-
-<p align="left">A Lifelong Learner Focusing on A.I and Blockchain Technology.</p>
-
-###
-
-<h2 align="left">About me 🙋‍♂️</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently in my third year of uni<br>🎯 Goals: To be an expert A.I Engineer and an expert Blockchain Engineer<br>🎲 Fun fact: Love Learning...</p>
-
-###
-
-<h2 align="left">Connect with Me!! 🔥</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexcsl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alexcsl10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:alexandercsl32@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Stats 📈</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcsl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcsl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h1>Alexander C.S.L.</h1>
+  <p><strong>Full-stack development · AI applications · Blockchain</strong></p>
+  <p>I like turning ideas into software I can use, inspect, and keep improving.</p>
+  <p>
+    <a href="https://github.com/alexcsl?tab=repositories">Explore my code</a> &nbsp; / &nbsp;
+    <a href="https://www.linkedin.com/in/alexcsl/">LinkedIn</a> &nbsp; / &nbsp;
+    <a href="mailto:alexandercsl32@gmail.com">Email</a> &nbsp; / &nbsp;
+    <a href="https://www.instagram.com/alexcsl10/">Instagram</a>
+  </p>
 </div>
 
-###
+---
+
+### What keeps me curious
+
+I'm Alexander Christian Suryanto Linggodigdo. My interests sit where useful interfaces meet the systems behind them: AI-assisted research, financial tools, and on-chain applications.
+
+- **Build:** research terminals, wallet workflows, and tools for collaboration.
+- **Explore:** how AI can make information easier to work with, and how blockchain changes ownership and execution.
+- **Learn by doing:** write the code, follow the data, and understand what happens underneath.
+
+### A few things I've been building
+
+| Project | What you'll find | Focus |
+| :--- | :--- | :--- |
+| [StockScope](https://github.com/alexcsl/stockscope) | A tokenized-stock research terminal with sourced observations, comparisons, and cited research. | Financial research · AI |
+| [Banked](https://github.com/alexcsl/Banked) | A Solana wallet exit-planning app with a public simulation demo. | Solana · Wallet UX |
+| [Hwixel](https://github.com/alexcsl/Hwixel) | An Android group project management app for university students. | Android · Collaboration |
+| [SPL tokens & MPL Core NFTs](https://github.com/alexcsl/turbine-spl-nft-26) | TypeScript exercises covering token transfers and the NFT lifecycle, with devnet transaction evidence. | TypeScript · Solana |
+
+### GitHub, at a glance
+
+[![GitHub activity and public repository statistics](assets/github-activity.svg)](https://github.com/alexcsl?tab=overview)
+
+<sub>Refreshed daily from GitHub. Language counts use the primary language of public, non-fork repositories. The contribution calendar reflects activity visible on my public profile.</sub>
+
+---
+
+Have an idea around AI, developer tools, or blockchain? [Let's talk.](mailto:alexandercsl32@gmail.com)
