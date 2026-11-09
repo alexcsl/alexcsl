@@ -17,7 +17,7 @@ def fetch(url):
     headers = {"User-Agent": "alexcsl-profile-stats"}
     if url.startswith("https://api.github.com/") and os.environ.get("GH_TOKEN"):
         headers["Authorization"] = "Bearer " + os.environ["GH_TOKEN"]
-    with urlopen(Request(url, headers=headers), timeout=30) as response:
+    with urlopen(Request(url, headers=headers), timeout=60) as response:
         return response.read().decode("utf-8")
 
 
